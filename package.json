@@ -4,6 +4,10 @@
   "description": "Template Generator for the Koala Platform",
   "license": "BSD-3-Clause",
   "bin": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koaladev/joey.git"
+  },
   "dependencies": {
     "execa": "^2.0.4",
     "plop": "^2.4.0"
