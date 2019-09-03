@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Changed
+
+- Minor: Redundant named export in component template
+
 ## [1.0.1] - 2019-08-29
 
 ### Added

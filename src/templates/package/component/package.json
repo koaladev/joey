@@ -2,7 +2,7 @@
   "name": "@koala/pouch-{{dashCase type}}-{{dashCase name}}",
   "version": "1.0.0",
   "description": "Pouch {{titleCase name}} {{titleCase type}}",
-  "main": "src/index.js",
+  "main": "src/{{pascalCase name}}.vue",
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
