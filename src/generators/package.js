@@ -12,10 +12,10 @@ module.exports = {
       name: 'name',
       message: 'Enter the package name',
       validate: answer => {
-        if (!answer) {
-          return 'Package name cannot be empty';
+        if (/[\w]+/.test(answer)) {
+          return true;
         }
-        return true;
+        return false;
       },
     },
   ],

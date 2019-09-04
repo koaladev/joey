@@ -4,13 +4,14 @@
 
 ### Changed
 
-- Minor: Redundant named export in component template
+- Minor: Improve package name validation
+- Minor: Remove redundant named export in component template
 
 ## [1.0.1] - 2019-08-29
 
 ### Added
 
-- Patch: Repository metadata in `package.json`
+- Patch: Add repository metadata in `package.json`
 
 ## [1.0.0] - 2019-08-28
 
