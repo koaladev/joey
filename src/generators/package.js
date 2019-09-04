@@ -5,7 +5,7 @@ module.exports = {
       type: 'list',
       name: 'type',
       message: 'Choose a package type',
-      choices: ['Component'],
+      choices: ['Component', 'Stylesheet'],
     },
     {
       type: 'input',
